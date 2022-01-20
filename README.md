@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ifeoluwafavour
 - 👀 I’m interested in contributing to open source projects, cool software and gadgets
 - 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on building projects that make life better 
+- 💞️ I’m looking to collaborate with developers to build projects that make life better 
 - 📫 How to reach me Twitter: @_ifeoluwafavour
 
 <!---
