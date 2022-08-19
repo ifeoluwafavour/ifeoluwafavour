@@ -1,7 +1,7 @@
 Hi 👋 My name is Ifeoluwa Favour
 ================================
 
-Tech Content Creator, Pythonista and Open Source Fairy
+Technical Writer, Python lover and Open Source advocate
 ------------------------------------------------------
 
 * ✉️  You can contact me at [favourojumoro@gmail.com](mailto:favourojumoro@gmail.com )
