@@ -1,12 +1,11 @@
 Hi 👋 My name is Ifeoluwa Favour
 ================================
 
-Technical Writer, Python lover and Open Source advocate
+Technical Writer, Python developer and Open Source advocate
 ------------------------------------------------------
 
-* ✉️  You can contact me at [favourojumoro@gmail.com](mailto:favourojumoro@gmail.com )
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm an introvert and I love chocolates :)
+* ⚡ I'm an introvert and I love chocolates :)
+* 😎 I live deeply
 
 <a href="https://www.twitter.com/_ifeoluwafavour" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/_ifeoluwafavour?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
