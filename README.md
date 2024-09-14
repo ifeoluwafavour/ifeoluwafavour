@@ -1,7 +1,7 @@
 Hi 👋 My name is Ifeoluwa Favour
 ================================
 
-Technical Writer
+Technical Writer and Open Source Advocate
 ------------------------------------------------------
 
 * ✍️ I write about Python, AI/ML and Web3
